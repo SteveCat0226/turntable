@@ -2,9 +2,11 @@
 
 一個以深色與金色為主題的互動轉盤網頁。輸入猶豫不決的選項，讓轉盤幫你隨機選出答案。
 
-線上網站：<https://fate-wheel-eason.steelygala4.chatgpt.site>
+直接進入轉盤：<https://stevecat0226.github.io/turntable/>
 
-目前網站為私人存取，需使用擁有存取權限的 ChatGPT 帳號登入。
+備用網站：<https://fate-wheel-eason.steelygala4.chatgpt.site>
+
+目前網站為公開存取，任何人開啟網址即可使用，不需要登入 ChatGPT。
 
 ## 功能
 
@@ -30,6 +32,7 @@
 
 ```text
 fate-wheel/
+├── index.html             # GitHub Pages 首頁，自動進入轉盤
 ├── README.md              # 專案說明
 ├── server.mjs             # 本機靜態預覽伺服器
 ├── .openai/
